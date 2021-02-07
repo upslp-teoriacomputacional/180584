@@ -1,6 +1,6 @@
 <h1>Programa en lua ilustrando diferentes operaciones con conjuntos</h1>
 
- <h2>Para realizar este programa rializamos  una busqueda de lua para poder obtener informacion sobre si existian algunos metodos para poder generar 	<br>conjuntos y realizqar sus operaciones con algunas funcionas existentes como se ve en el ejemplo de python al buscar por un cuanto tiempo y no 	<br>encontrar nada se procedio a investigar sobre los arreglos y que funciones se existen para ellos despues de eso se establecio como funcionan las 	<br>operaciones de los conjuntos y se procedio a hacerlas en lua con ayuda de los siclos y los condicionales.</h2>
+ <h2>Para realizar este programa realizamos  una busqueda de lua para poder obtener informacion sobre si existian algunos metodos para poder generar 	<br>conjuntos y realizqar sus operaciones con algunas funcionas existentes como se ve en el ejemplo de python al buscar por un cuanto tiempo y no 	<br>encontrar nada se procedio a investigar sobre los arreglos y que funciones se existen para ellos despues de eso se establecio como funcionan las 	<br>operaciones de los conjuntos y se procedio a hacerlas en lua con ayuda de los siclos y los condicionales.</h2>
 	<br>
 <p>este codigo se descomenta en cada funcion que se quiera probar ya que todas bienen comentadas exepto la imprecion de los conjuntos principales</p>
 
