@@ -1,6 +1,6 @@
 <h1>Programa en kotlin </h1>
 
- <h2>Para realizar este programa realizamos  una busqueda de lua para poder obtener informacion sobre si existian algunos metodos para poder generar 	<br>grafos y realizqar una lista con las letras como se ve en el ejemplo  <br>al encontrar dicha informacion mostrada con un ejemplo de numero lo se procedio a analisar el codigo para poder utilisar ese codigo con datos tipo string 	</h2>
+ <h2>Para realizar este programa realizamos  una busqueda de el lenguaje kotlin  para poder obtener informacion sobre si existian algunos metodos para poder generar 	<br>grafos y realizar una lista con las letras como se ve en el ejemplo  <br>al encontrar dicha informacion mostrada con un ejemplo de numero lo se procedio a analizar el codigo para poder utilisar ese codigo con datos tipo string 	</h2>
 	<br>
 <p>Correr el codigo en kotlin </p>
 
